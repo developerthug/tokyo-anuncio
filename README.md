@@ -1,6 +1,6 @@
 # Tokyo Anúncio
 
-Este é um script de anúncios para o jogo GTA V, utilizando a biblioteca `ox_lib`. Ele permite que os administradores enviem notificações personalizadas para todos os jogadores no servidor.
+Este é um script de anúncios para o jogo GTA V, FivemServer, QBCORE.  utilizando a biblioteca `ox_lib`. Ele permite que os administradores enviem notificações personalizadas para todos os jogadores no servidor.
 
 ## Instalação
 
